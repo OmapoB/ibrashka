@@ -1,0 +1,6 @@
+/.idea
+/Include
+/Scripts
+/Lib
+*.pycache
+pyvenv.cfg
